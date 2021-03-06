@@ -1,0 +1,5 @@
+package productApp.dao;
+
+public class ProductDao {
+
+}

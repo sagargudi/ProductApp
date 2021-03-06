@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\SpringCURD\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1542703329.index
+4162352358.index
+1700766592.index
+529231183.index
+3659053332.index
+1994582125.index
+996132779.index

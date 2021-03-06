@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\SpringCURD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3881349725.index
+\CURDOperationUsingSpring\src\main\java
+D:\SpringCURD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2248566322.index
+\CURDOperationUsingSpring\src\main\resources
+D:\SpringCURD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1700766592.index
+\CURDOperationUsingSpring\src\main\java

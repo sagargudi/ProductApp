@@ -1,0 +1,4 @@
+1614525997777	Rename package 'productApp'
+1614526016758	Rename package 'productAppController'
+1614526146872	Move 'index.jsp' to 'WEB-INF'
+1614530604021	Move 'index.jsp' to 'views'

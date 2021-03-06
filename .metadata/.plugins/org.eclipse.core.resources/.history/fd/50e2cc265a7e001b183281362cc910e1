@@ -1,0 +1,24 @@
+package productApp.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class MainController {
+	@RequestMapping("/")
+	public String home() {
+		return "index";
+	}
+	
+	@RequestMapping("add")
+	public String addProduct(Model m) {
+		m.addAttribute("title", "Add product");
+		return "addForm";
+	}
+	
+	@RequestMapping("Handle-Product")
+	public String handleForm()
+	 return "redirectView"
+
+}

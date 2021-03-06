@@ -1,0 +1,5 @@
+package productApp.model;
+
+public class Product {
+
+}
